@@ -1,14 +1,13 @@
 <h3 align="center"><u><b>ᴀʙᴏᴜᴛ ᴍᴇ</b></u></h3>
 
 <p align="center">
-  ɪ'ᴍ ʙʜᴀᴠʏᴀ ᴅᴏsʜɪ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀsᴘɪʀɪɴɢ ᴇɴᴛʀᴇᴘʀᴇɴᴇᴜʀ ʙʟᴇɴᴅɪɴɢ ᴛʜᴇ ᴛᴇᴄʜ ᴀɴᴅ ᴀᴜᴛᴏᴍᴏᴛɪᴠᴇ ᴀꜰᴛᴇʀᴍᴀʀᴋᴇᴛ sᴘᴀᴄᴇs. ɪ ꜰᴏᴄᴜs ᴏɴ ʙᴜɪʟᴅɪɴɢ sᴍᴏᴏᴛʜ ᴡᴇʙ ᴇxᴘᴇʀɪᴇɴᴄᴇs ᴜsɪɴɢ ʀᴇᴀᴄᴛ, ᴠᴜᴇ.ᴊs, ᴀɴᴅ ɢsᴀᴘ, ᴀʟᴏɴɢsɪᴅᴇ ᴇxᴘʟᴏʀɪɴɢ ʙ𝟸ʙ ɪᴍᴘᴏʀᴛ/ᴇxᴘᴏʀᴛ sᴏʟᴜᴛɪᴏɴs. ᴏᴜᴛsɪᴅᴇ ᴏꜰ ᴄᴏᴅɪɴɢ ᴀɴᴅ sᴜᴘᴘʟʏ ᴄʜᴀɪɴs, ɪ ᴍᴏsᴛʟʏ ʀᴜɴ ᴏɴ ɢᴏᴏᴅ ꜰᴏᴏᴅ, sᴏʟɪᴅ sʟᴇᴇᴘ, ᴀɴᴅ ꜰɪxɪɴɢ ᴛʜᴇ ᴏᴄᴄᴀsɪᴏɴᴀʟ sᴛᴜʙʙᴏʀɴ ʙᴜɢ.
+  I'm Bhavya Doshi, a developer focused on building smooth web experiences using React, Vite, Python, JavaScript, HTML, and CSS. Shipping clean code and building projects on GitHub, I mostly run on good food, solid sleep, and fixing the occasional stubborn bug.
 </p>
 
 <p align="center">
-  ᴍʏ ᴛᴇᴄʜɴɪᴄᴀʟ ᴇxᴘᴇʀᴛɪsᴇ ᴄᴇɴᴛᴇʀs ᴀʀᴏᴜɴᴅ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴜsᴇʀ ɪɴᴛᴇʀꜰᴀᴄᴇs. ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ ʀᴇᴀᴄᴛ, ᴠᴜᴇ, ɢsᴀᴘ, ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ sᴍᴏᴏᴛʜ ᴜsᴇʀ ɪɴᴛᴇʀꜰᴀᴄᴇs. ɪ ᴀᴍ ᴄᴏɴsᴛᴀɴᴛʟʏ ʟᴏᴏᴋɪɴɢ ᴛᴏ ʟᴇᴀʀɴ ɴᴇᴡ ᴘᴀᴛᴛᴇʀɴs ᴀɴᴅ sᴄᴀʟᴇ ᴅɪɢɪᴛᴀʟ ᴛᴏᴏʟs ꜰᴏʀ ᴍᴏᴅᴇʀɴ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs.
+  My technical expertise centers around frontend development, interactive user interfaces, and modern tooling. You can ask me about Python, JavaScript, HTML, CSS, React, Vite, and building smooth user interfaces. I am constantly looking to learn new patterns and scale digital tools for modern web applications.
 </p>
 
 <p align="center">
-  ᴡʜᴇɴ ɪ'ᴍ ɴᴏᴛ ᴡʀɪᴛɪɴɢ ᴄᴏᴅᴇ ᴏʀ ʟᴏᴏᴋɪɴɢ ɪɴᴛᴏ ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴛʀᴀᴅᴇ, ɪ ᴋᴇᴇᴘ ᴛʜɪɴɢs ʙᴀʟᴀɴᴄᴇᴅ. ᴀ ꜰᴜɴ ꜰᴀᴄᴛ ᴀʙᴏᴜᴛ ᴍᴇ ɪs ᴛʜᴀᴛ ɪ ʀᴜɴ ᴇɴᴛɪʀᴇʟʏ ᴏɴ ɢᴏᴏᴅ ꜰᴏᴏᴅ, sᴏʟɪᴅ sʟᴇᴇᴘ, ᴀɴᴅ ꜰɪxɪɴɢ sᴛᴜʙʙᴏʀɴ ᴄᴏᴅᴇ ʙᴜɢs. ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪ ᴀʟᴡᴀʏs ᴋᴇᴇᴘ ᴀɴ ᴇʏᴇ ᴏɴ ᴄʟᴇᴀɴ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ ᴏᴘᴛɪᴍɪᴢᴀᴛɪᴏɴ ᴛᴏ ᴇɴsᴜʀᴇ ᴇᴠᴇʀʏ ᴘʀᴏᴊᴇᴄᴛ ʀᴜɴs sᴇᴀᴍʟᴇssʟʏ ꜰʀᴏᴍ ʙᴀᴄᴋᴇɴᴅ ʟᴏɢɪᴄ ᴛᴏ ꜰʀᴏɴᴛᴇɴᴅ ᴍᴏᴛɪᴏɴ.
+  When I'm not writing code, I keep things balanced. A fun fact about me is that I run entirely on good food, solid sleep, and fixing stubborn code bugs. Additionally, I always keep an eye on clean architecture and performance optimization to ensure every project runs seamlessly from backend logic to frontend motion.
 </p>
-<br></br>
